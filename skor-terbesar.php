@@ -1,6 +1,7 @@
 <?php
 function skor_terbesar($arr){
 //kode di sini
+    $len = count($arr);
 }
 
 // TEST CASES

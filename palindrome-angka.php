@@ -4,6 +4,8 @@ function palindrome_angka($angka) {
 // tulis kode di sini
     if($angka>=0 and $angka<=9){
         return $angka+1;
+    }else{
+        
     }
 }
 

@@ -1,6 +1,7 @@
 <?php
 function pasangan_terbesar($angka){
 // kode di sini
+    $len = strlen((string($angka)))
 }
 
 // TEST CASES

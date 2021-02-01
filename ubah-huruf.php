@@ -1,6 +1,7 @@
 <?php
 function ubah_huruf($string){
 //kode di sini
+    $len = strlen($string);
 }
 
 // TEST CASES
